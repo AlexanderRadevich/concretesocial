@@ -1,2 +1,1 @@
-# concretesocial
-concretesocial.io api test app
+# Please visit https://concretesocial.io/docs for details
